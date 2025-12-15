@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Suyash Srivastava
-- 👀 I’m interested in Web Development and Flutter Development
-- 🌱 I’m currently learning Python and AI
-- 💞️ I’m looking to collaborate on some intereseting projects on web development related technologies: React js, Javascript, Mongodb, node.js
-- 📫 How to reach me : ssrivastava208@gmail.com reach me any time.
+Frontend Developer with 2+ years of experience specializing in React.js and Redux. My GitHub showcases scalable frontend applications, secure authentication flows, API integrations, and performance-optimized UI. I actively use AI-assisted tools to improve code quality and development efficiency.
 
 <!---
 Suyashsri14/Suyashsri14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
