@@ -4,7 +4,7 @@ Experienced in frontend security best practices including JWT authentication, pr
 
 Actively exploring and integrating AI-assisted development workflows to enhance productivity, debugging, refactoring, and code quality. Eager to expand into AI-powered frontend experiences and modern full-stack technologies.
 
-**Tech Stack**
+**Tech Stack :**
 React.js
 Redux / Redux Toolkit
 JavaScript (ES6+)
