@@ -1,4 +1,4 @@
-React Developer with **2.5+** years of experience building scalable and performance-driven web applications using React.js, Redux, and Redux Toolkit. Skilled in developing reusable component-based architectures, integrating REST APIs, handling asynchronous operations, and implementing robust error management.
+Software Developer(Frontend) with **2.5+** years of experience building scalable and performance-driven web applications using React.js, Redux, and Redux Toolkit. Skilled in developing reusable component-based architectures, integrating REST APIs, handling asynchronous operations, and implementing robust error management.
 
 Experienced in frontend security best practices including JWT authentication, protected routing, and role-based access control. Passionate about writing clean, maintainable, and optimized code that improves user experience and application performance.
 
