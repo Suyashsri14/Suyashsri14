@@ -6,9 +6,10 @@ Actively exploring and integrating AI-assisted development workflows to enhance 
 
 **Tech Stack :**
 React.js
-Redux / Redux Toolkit
+Redux Toolkit
 JavaScript (ES6+)
 HTML5 / CSS3
+Tailwind CSS
 REST APIs
 JWT Authentication
 Git & GitHub
